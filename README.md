@@ -1,6 +1,6 @@
 ### Features
 
-- **Información del Proyecto:**
+**Información del Proyecto:**
 - Repositorio dedicado a un proyecto de clasificación de imágenes médicas desarrollado en Google Colab.
 - Utilización de un conjunto de datos de entrenamiento y prueba para entrenar un modelo de aprendizaje automático.
 - El modelo tiene la capacidad de diferenciar entre imágenes de COVID, neumonía y normales.
